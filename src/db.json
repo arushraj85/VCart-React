@@ -1,0 +1,33 @@
+{
+    "items" :  [
+        {
+         "description" : "This is a good product ",
+          "price": 450,
+          "discountedPrice": 340,
+          "title": "books",
+          "thumbnail": "assets/placeholder.png"
+        },
+        {
+            "description" : "This is a good product ",
+            "price": 450,
+            "discountedPrice": 340,
+            "title": "books",
+            "thumbnail": "assets/placeholder.png"
+          },
+          {
+            "description" : "This is a good product ",
+            "price": 450,
+            "discountedPrice": 340,
+            "title": "books",
+            "thumbnail": "assets/placeholder.png"
+          },
+          {
+            "description" : "This is a good product ",
+            "price": 450,
+            "discountedPrice": 340,
+            "title": "books",
+            "thumbnail": "assets/placeholder.png"
+          }
+      ]
+}
+

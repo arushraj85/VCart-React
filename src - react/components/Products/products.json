@@ -1,0 +1,35 @@
+{"items" : [
+   
+    {
+        "id": 3,
+        "price": 450,
+        "discountedPrice": 340,
+        "title": "books",
+        "thumbnail": "assets/placeholder.png"
+    },
+
+    {
+        "id": 3,
+        "price": 450,
+        "discountedPrice": 340,
+        "title": "books",
+        "thumbnail": "assets/placeholder.png"
+      },
+
+      {
+        "id": 3,
+        "price": 450,
+        "discountedPrice": 340,
+        "title": "books",
+        "thumbnail": "assets/placeholder.png"
+      },
+
+      {
+        "id": 3,
+        "price": 450,
+        "discountedPrice": 340,
+        "title": "books",
+        "thumbnail": "assets/placeholder.png"
+      }
+]
+}
